@@ -16,7 +16,7 @@ let arr=
 {"id":7,"country":"Bosnien","city":"Sarajevo","lon":18.41,"lat":43.85,"population":348404,"tz":"Europe/Sarajevo"},
 {"id":8,"country":"Österreich","city":"Graz","lon":15.45,"lat":47.07,"population":305314,"tz":"Europe/Vienna"},
 {"id":9,"country":"England","city":"Brighton", "lon":-0.17,"lat":50.83,"population":290885,"tz":"Europe/London"},
-{"id":10,"country":"Spanien","city":"Granada","lon":-3.61,"lat":37.19,"population":234,325,"tz":"Europa/Madrid"},
+{"id":10,"country":"Spanien","city":"Granada","lon":-3.61,"lat":37.19,"population":234325,"tz":"Europa/Madrid"},
 {"id":11,"country":"Algerien","city":"Algier","lon":3.22,"lat":36.68,"population":2364230,"tz":"Africa/Algiers"},
 {"id":12,"country":"Mauretanien","city":"Nouakchott","lon":-15.98,"lat":18.09,"population":1612940,"tz":"Africa/Nouakchott"},
 {"id":13,"country":"Burkina Faso","city":"Ouagadougou","lon":-1.53,"lat":12.37,"population":3520820,"tz":"Africa/Ouagadougou"},
@@ -25,7 +25,7 @@ let arr=
 {"id":16,"country":"Chile","city":"Valparaíso", "lon":-71.63,"lat":-33.03,"population":1024430,"tz":"America/Santiago"},
 {"id":17,"country":"Kolumbien","city":"Medellín","lon":-75.56,"lat":6.25,"population":4172810,"tz":"America/Bogota"},
 {"id":18,"country":"El Salvador","city":"San Salvador","lon":-89.20,"lat":13.72,"population":1132420,"tz":"America/El_Salvador"},
-{"id":19,"country":"USA","city":"Santa Fe","lon":,-105.94"lat":35.69,"population":91254,"tz":"America/Los_Angeles"}];
+{"id":19,"country":"USA","city":"Santa Fe","lon":-105.94,"lat":35.69,"population":91254,"tz":"America/Los_Angeles"}];
     const path = d3.geoPath().projection(projection);
 
     // Daten laden (TopoJSON -> GeoJSON)
