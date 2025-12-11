@@ -15,7 +15,7 @@ let arr=
 {"id":7,"country":"Slowenien","city":"Ljubljana","lon":14.51,"lat":46.05,"population":291140,"tz":"Europe/Ljubljana"},
 {"id":8,"country":"Österreich","city":"Graz","lon":15.45,"lat":47.07,"population":305314,"tz":"Europe/Vienna"},
 {"id":9,"country":"England","city":"Brighton", "lon":-0.17,"lat":50.83,"population":290885,"tz":"Europe/London"},
-{"id":10,"country":"Spanien","city":"Granada","lon":-3.61,"lat":37.19,"population":234,325,"tz":"Europa/Madrid"},
+{"id":10,"country":"Spanien","city":"Granada","lon":-3.61,"lat":37.19,"population":234325,"tz":"Europa/Madrid"},
 {"id":11,"country":"Italien","city":"Catania","lon":15.08,"lat":37.50,"population":297517,"tz":"Europe/Rom"},{"id":12,"country":"Algerien","city":"Algier","lon":3.22,"lat":36.68,"population":2364230,"tz":"Africa/Algiers"},
 {"id":13,"country":"Mauretanien","city":"Nouakchott","lon":-15.98,"lat":18.09,"population":1612940,"tz":"Africa/Nouakchott"},
 {"id":14,"country":"Burkina Faso","city":"Ouagadougou","lon":-1.53,"lat":12.37,"population":3520820,"tz":"Africa/Ouagadougou"},
